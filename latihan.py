@@ -1,1 +1,1 @@
-print("ini file latihan")
+print("ini file conflict")
